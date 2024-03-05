@@ -1,0 +1,34 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    asddas:
+      email: ccc@asd.pl
+      logged_in: false
+      name: asdasd
+      password: $2b$12$Dd1buYz1ZP.N6hjgeZ1y8u4TAuQEWBqUnyxeV5bAaC3t/CW6lroa6
+    bartek:
+      email: bart@wp.pl
+      logged_in: false
+      name: bartek
+      password: $2b$12$fdckT4LNiRyjmj5UJ3jyx.Eqc96FYcp6YxsUTSQec5LHiHbV3Xy1e
+    jsmith:
+      email: jsmith@gmail.com
+      logged_in: false
+      name: Bartek
+      password: $2b$12$giDsGj8N1c885Uh0A75Djedbib19HlXUfshzeRBWMyE/ZtJQ.moA6
+    rbriggs:
+      email: rbriggs@gmail.com
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$tbMP3qmcAcsXD9lHE9MgiOqyf5h.TSd7l56pqbb30kpfAZjq/xigK
+    ssssssssss:
+      email: aaaa@asd.pl
+      logged_in: false
+      name: asdasdss
+      password: $2b$12$8VXeXfoQ2cv0EC3DGMzckOLyjfzzwTxn6HAFfDL3FoS4dACndP6.W
+preauthorized:
+  emails:
+  - melsby@gmail.com
